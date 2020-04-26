@@ -4,3 +4,4 @@ Upload file: Edit.py
 upload regist.py
 注册功能 completed！
 
+Manager Module completed!
