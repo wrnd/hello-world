@@ -1,6 +1,7 @@
-# hello-world
-work
-Upload file: Edit.py
-upload regist.py
-注册功能 completed！
+计科1701、计科1702
 
+IT项目管理
+
+实验四：软件项目质量计划
+
+计科1701：3人；计科1702：2人
